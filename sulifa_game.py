@@ -39,7 +39,7 @@ while True:
             if choice == 's':
                 print("You chose scissors✂️")
                 print("Draw! Try again")
-            elif choice == 'r':
+            elif choice == 'r': 
                 print("You chose rock🪨")
                 print("You won! Congrats!")
             else:
